@@ -11,10 +11,10 @@
 
 ### Introduction
 
-An online portfolio is an representation of work of `Bibah` has to create,
-`Bibah` is a passionate web developer learner at HYF Belgium.
+An online portfolio is an representation of work of `Bibha` has to create,
+`Bibha` is a passionate web developer learner at HYF Belgium.
 
-`Bibah's` portfolio is exhaustively informative, letting her visitors know
+`Bibha's` portfolio is exhaustively informative, letting her visitors know
 everything and anything that needs to be known, especially about her skills and
 how she infuses her inspiration of other learners at HYF. This web dev portfolio
 has a blog page containing tech articles.
